@@ -148,7 +148,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace,monospace;
+  font-family: Consolas, "Microsoft Yahei", monospace,monospace;
   font-size: 1em;
 }
 
@@ -5543,6 +5543,9 @@ pre,
 
 code {
   text-shadow: 0 1px #fff;
+  background: #f3f3f3;
+  border: 1px solid #eee;
+  border-radius: 4px;
   padding: 0 0.3em;
 }
 

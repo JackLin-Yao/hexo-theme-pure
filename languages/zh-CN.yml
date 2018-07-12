@@ -1,5 +1,6 @@
 menu:
   Home: 首页
+  Personal Homepage: 个人首页
   Archives: 归档
   Categories: 分类
   Tags: 标签
@@ -8,6 +9,7 @@ menu:
   Movies: 电影
   Links: 友链
   About: 关于
+  Sheets: 谱站
 nav:
   all: All
   older: 下一篇
