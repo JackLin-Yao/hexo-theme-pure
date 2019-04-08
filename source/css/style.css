@@ -5937,6 +5937,8 @@ body.no-sidebar .sidebar {
 
 .main .content {
   min-height: 85vh;
+  font-size: 15px;
+  line-height: 160%;
 }
 
 .main.has-sticky .content {
